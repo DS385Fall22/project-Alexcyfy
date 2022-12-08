@@ -31,4 +31,4 @@ If you want to use widgets and stuff with the plots:
 
 Lastly, if you plan on using geographical plots, run this command:
 
-`$ pip install plotly-geo==1.0.0`
+`$ pip install plotly-geo`
