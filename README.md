@@ -16,6 +16,7 @@ repository.
 
 Documentation:
 Use this to get started with plotly installation: https://plotly.com/python/getting-started/
+
 To install plotly you can run the command:
 
 `$ pip install plotly`
