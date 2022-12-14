@@ -35,6 +35,7 @@ Lastly, if you plan on using geographical plots, run this command:
 
 
 Citations:
+
 3-d line plot Brownian Motion: https://plotly.com/python/3d-line-plots/
 
 Scatter Geo Plot: https://plotly.com/python/scatter-plots-on-maps/
